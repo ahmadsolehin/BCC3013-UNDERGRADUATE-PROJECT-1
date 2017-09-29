@@ -12,3 +12,5 @@ http://ijesc.org/upload/2c7959d9d16dc61a2782324236ac53ea.Heartbeat%20Sensing%20a
 ## how to detect heart attack
 
 https://www.davidwolfe.com/recognize-heart-attack-before-happens/
+
+https://bottomlineinc.com/health/heart-attack/stop-a-heart-attack-before-it-happens
