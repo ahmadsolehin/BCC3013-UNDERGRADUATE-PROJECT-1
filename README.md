@@ -16,3 +16,13 @@ https://www.davidwolfe.com/recognize-heart-attack-before-happens/
 https://bottomlineinc.com/health/heart-attack/stop-a-heart-attack-before-it-happens
 
 http://www.heart.org/idc/groups/heart-public/@wcm/@hcm/documents/downloadable/ucm_300319.pdf
+
+
+
+
+
+
+
+
+
+https://www.addictivetips.com/ios/are-heart-rate-monitoring-apps-really-accurate-we-put-them-to-the-test/
