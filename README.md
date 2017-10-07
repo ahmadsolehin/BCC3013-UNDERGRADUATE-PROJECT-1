@@ -39,3 +39,7 @@ https://breakingmuscle.com/reviews/tech-review-instant-heart-rate-app-by-azumio
 http://www.mactrast.com/2012/11/review-cardiograph-your-bpm-really-is-at-your-fingertips/
 
 https://www.theguardian.com/technology/2016/aug/21/five-best-cardio-health-monitoring-devices
+
+
+## github
+https://www.youtube.com/watch?v=9GKpbI1siow&t=320s
