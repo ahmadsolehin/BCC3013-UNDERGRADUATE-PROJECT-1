@@ -26,3 +26,8 @@ http://www.heart.org/idc/groups/heart-public/@wcm/@hcm/documents/downloadable/uc
 
 
 https://www.addictivetips.com/ios/are-heart-rate-monitoring-apps-really-accurate-we-put-them-to-the-test/
+
+
+## advantages apps
+
+https://breakingmuscle.com/reviews/tech-review-instant-heart-rate-app-by-azumio
