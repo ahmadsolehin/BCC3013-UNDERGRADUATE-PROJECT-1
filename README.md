@@ -27,6 +27,10 @@ http://www.heart.org/idc/groups/heart-public/@wcm/@hcm/documents/downloadable/uc
 
 https://www.addictivetips.com/ios/are-heart-rate-monitoring-apps-really-accurate-we-put-them-to-the-test/
 
+## chapter 2
+
+https://drive.google.com/file/d/0B_AuA74ZAnpQbEUwbElJck9pOGM/view
+
 
 ## advantages apps
 
