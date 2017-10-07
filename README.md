@@ -31,3 +31,5 @@ https://www.addictivetips.com/ios/are-heart-rate-monitoring-apps-really-accurate
 ## advantages apps
 
 https://breakingmuscle.com/reviews/tech-review-instant-heart-rate-app-by-azumio
+
+http://www.mactrast.com/2012/11/review-cardiograph-your-bpm-really-is-at-your-fingertips/
