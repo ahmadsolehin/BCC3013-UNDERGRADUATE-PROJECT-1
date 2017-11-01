@@ -44,4 +44,5 @@ https://www.theguardian.com/technology/2016/aug/21/five-best-cardio-health-monit
 ## github
 https://github.com/androidsrc/PdfReadWrite
 
+https://tausiq.wordpress.com/2012/06/16/readwrite-text-filedata-in-android-example-code/
 http://android-helper4u.blogspot.my/2013/02/9how-to-write-and-read-from-text-file.html
