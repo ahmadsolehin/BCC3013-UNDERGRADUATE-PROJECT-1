@@ -34,11 +34,3 @@ https://drive.google.com/file/d/0B_AuA74ZAnpQbEUwbElJck9pOGM/view
 
 ## advantages apps
 
-https://breakingmuscle.com/reviews/tech-review-instant-heart-rate-app-by-azumio
-
-http://www.mactrast.com/2012/11/review-cardiograph-your-bpm-really-is-at-your-fingertips/
-
-https://www.theguardian.com/technology/2016/aug/21/five-best-cardio-health-monitoring-devices
-
-
-https://github.com/eugenp/tutorials/tree/master/algorithms
