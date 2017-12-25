@@ -2,6 +2,6 @@
 
 ## HEART RATE SENSOR USING RASPBERRY PI WITH SMS ALERT
 
-## chapter 2
+http://www.theitsmreview.com/2016/02/change-release-management/
 
-https://drive.google.com/file/d/0B_AuA74ZAnpQbEUwbElJck9pOGM/view
+http://www.plutora.com/blog/8-ways-to-improve-your-enterprise-release-management-process
