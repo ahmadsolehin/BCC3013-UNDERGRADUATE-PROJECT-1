@@ -11,3 +11,5 @@ https://www.cio.com/article/2434640/developer/7-ways-to-improve-your-software-re
 https://www.linkedin.com/pulse/relationship-between-release-change-configuration-abhishek-srivastava/
 
 https://www.cmcrossroads.com/article/how-implement-cm-and-traceability-practical-way
+
+https://files.ifi.uzh.ch/rerg/amadeus/teaching/courses/software_engineering_hs07/folien/ch23-SCM-addendum.pdf
