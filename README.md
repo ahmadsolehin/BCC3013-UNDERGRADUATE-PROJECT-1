@@ -9,3 +9,5 @@ http://www.plutora.com/blog/8-ways-to-improve-your-enterprise-release-management
 https://www.cio.com/article/2434640/developer/7-ways-to-improve-your-software-release-management.html
 
 https://www.linkedin.com/pulse/relationship-between-release-change-configuration-abhishek-srivastava/
+
+https://www.cmcrossroads.com/article/how-implement-cm-and-traceability-practical-way
