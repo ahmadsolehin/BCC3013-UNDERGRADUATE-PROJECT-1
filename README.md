@@ -11,4 +11,4 @@ woredpress
 
 https://themeforest.net/item/autoxpert-a-car-repair-services-auto-mechanics-wordpress-theme/20760680
 
-http://autoxpert.zooka.io
+http://preview.themeforest.net/item/autoxpert-a-car-repair-services-auto-mechanics-wordpress-theme/full_screen_preview/20760680
