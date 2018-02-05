@@ -27,3 +27,23 @@ https://themeforest.net/item/penshop-multipurpose-ecommerce-wordpress-theme/2046
 
 
 https://geodata.solutions/restapi?country=Malaysia
+
+
+
+
+
+
+
+
+var Price = "10.";            
+        if (Price == "") {
+
+            alert ("Required!");
+        }
+
+        else if (isNaN(Price)) {               
+
+           
+            alert("Enter digits");
+
+        }
