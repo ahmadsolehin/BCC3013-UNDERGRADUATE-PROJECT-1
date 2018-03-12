@@ -32,18 +32,4 @@ https://geodata.solutions/restapi?country=Malaysia
 
 
 
-
-
-
-var Price = "10.";            
-        if (Price == "") {
-
-            alert ("Required!");
-        }
-
-        else if (isNaN(Price)) {               
-
-           
-            alert("Enter digits");
-
-        }
+http://quill18.com/unity_tutorials/
